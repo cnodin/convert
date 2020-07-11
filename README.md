@@ -1,8 +1,10 @@
-# converter
-for string convert
+# Description
+converter, for string convert
 
-# usage
+# Build
+go build
 
+# Usage
 * converter word -s=aaa -m=1
   output: AAA
 * converter word -s=BBB -m=2
